@@ -64,7 +64,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
     *Zhiyuan Liu, Jie Zhou.* 
 
-1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](http://arxiv.las.ac.cn/pdf/1812.08434.pdf)
+1. **Graph Neural Networks: A Review of Methods and Applications.** AI Open 2020. [paper](https://doi.org/10.1016/j.aiopen.2021.01.001)
    
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
 
@@ -111,6 +111,11 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey.** arxiv 2020. [paper](http://arxiv.las.ac.cn/abs/2005.07496)
 
     *Skarding, Joakim and Gabrys, Bogdan and Musial, Katarzyna.*
+
+1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](http://arxiv.las.ac.cn/abs/2002.11867)
+
+    *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
+   
 
 
 ## [Models](#content)   
@@ -483,7 +488,12 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Guohao Li, Guocheng Qian, Itzel C. Delgadillo, Matthias Müller, Ali Thabet, Bernard Ghanem.*
 
+1. **Adaptive Propagation Graph Convolutional Network.** IEEE TNNLS 2020. [paper](https://ieeexplore.ieee.org/document/9206045)
+
+	*Indro Spinelli, Simone Scardapane, Aurelio Uncini.*
+
      </details>
+
 ### [Graph Types](#content)
 1. **DyRep: Learning Representations over Dynamic Graphs.** ICLR 2019. [paper](https://openreview.net/pdf?id=HyePrhR5KX)
 
@@ -557,6 +567,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Ruochi Zhang, Yuesong Zou, Jian Ma.*
 
+1. **Digraph Inception Convolutional Networks.** NeurIPS 2020. [paper](https://proceedings.neurips.cc//paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf)
+
+	*Zekun Tong, Yuxuan Liang, Changsheng Sun, Xinke Li, David S. Rosenblum, Andrew Lim.*
+
+1. **Subgraph Neural Networks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/5bca8566db79f3788be9efd96c9ed70d-Abstract.html)
+
+    *Emily Alsentzer, Samuel Finlayson, Michelle Li, Marinka Zitnik.*
+
 ### [Pooling Methods](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
 
@@ -601,6 +619,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **Spectral Clustering with Graph Neural Networks for Graph Pooling.** ICML 2020. [paper](http://arxiv.las.ac.cn/abs/1907.00481)
 
 	*Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi.*
+
+1. **Accurate Learning of Graph Representations with Graph Multiset Pooling.** ICLR 2021. [paper](https://openreview.net/pdf?id=JHcqXGaqiGn)
+
+	*Jinheon Baek, Minki Kang, Sung Ju Hwang.*
 
 ### [Analysis](#content)
 1. **A Comparison between Recursive Neural Networks and Graph Neural Networks.** IJCNN 2006. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1716174)
@@ -659,10 +681,6 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Nicolas Keriven, Gabriel Peyré.*
 
-1. **Understanding Attention and Generalization in Graph Neural Networks.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2372)
-
-	*Boris Knyazev, Graham W Taylor, Mohamed Amer.*
-
 1. **On the equivalence between graph isomorphism testing and function approximation with GNNs.** NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-9347)
 
 	*Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
@@ -719,6 +737,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **GraphSAINT: Graph Sampling Based Inductive Learning Method.** ICLR 2020. [paper](http://arxiv.las.ac.cn/pdf/1907.04931.pdf) [code](https://github.com/GraphSAINT/GraphSAINT)
 
     *Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.*
+
+1. **Scalable Graph Convolutional Network Based Link Prediction on a Distributed Graph Database Server.** IEEE CLOUD 2020. [paper](https://github.com/miyurud/miyurud.github.io/blob/master/papers/2020/IEEE_CLOUD_2020_JasmineGraph-web.pdf) [code](https://github.com/miyurud/jasminegraph)
+
+    *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
 
 
 ## [Applications](#content)
@@ -1601,6 +1623,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 	*Xuanqing Liu, Si Si, Jerry Zhu, Yang Li, Cho-Jui Hsieh.*
 
+1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html)
+
+    *Xiang Zhang, Marinka Zitnik.*
+
 ### [Graph Clustering](#content)
 
 1. **Attributed Graph Clustering: A Deep Attentional Embedding Approach.** IJCAI 2019. [paper](http://arxiv.las.ac.cn/pdf/1906.06532.pdf)
@@ -1781,6 +1807,14 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 1. **FEW-SHOT LEARNING ON GRAPHS VIA SUPER-CLASSES BASED ON GRAPH SPECTRAL MEASURES.** ICLR 2020. [paper](https://openreview.net/pdf?id=Bkeeca4Kvr)
 
 	*Jatin Chauhan, Deepak Nathani, Manohar Kaul.*
+
+1. **Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction.** NeurIPS 2020. [paper](http://arxiv.las.ac.cn/abs/2006.06648)
+
+	*Jinheon Baek, Dong Bok Lee, Sung Ju Hwang.*
+
+1. **Graph Meta Learning via Local Subgraphs.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html)
+
+    *Kexin Huang, Marinka Zitnik.*
 
 ### [Program Representation](#content)
 
